@@ -1,6 +1,7 @@
 # Ola Mundo
 
 Este é um projeto simples de exemplo com o nome "Olá, Mundo".
+
 repositório criado durante uma aula gravada
 ## Objetivo
 
